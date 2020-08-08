@@ -1,2 +1,2 @@
 # Dask-ml
-how to work dask and dask-ml
+how to work with dask and dask-ml
